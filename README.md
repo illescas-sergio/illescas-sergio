@@ -11,7 +11,7 @@ Habilidades: JAVASCRIPT / REACT / REDUX / HTML / CSS / NODEJS / EXPRESS / SEQUEL
 
 Contacto:
 
-illescas.s.m@gmail.com
+illescas.s.m@gmail.com <br>
 https://www.linkedin.com/in/sergio-illescas-fullstack/
 
 
