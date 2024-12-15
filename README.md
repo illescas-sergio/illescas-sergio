@@ -2,11 +2,6 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://p4.wallpaperbetter.com/wallpaper/772/405/227/code-javascript-web-development-wallpaper-preview.jpg)
 
-Me encanta resolver problemas y estar en constante aprendizaje.<br>
-Luego de tomar un curso sobre implementación de audio para videojuegos (soy músico y productor musical), comencé a indagar en el mundo de la programación. Encontré en el desarrollo un terreno apasionante, lleno de desafíos. <br>
-Actualmente estoy usando: JavaScript, React, Redux, NodeJS, Express, Sequelize, PostgreSQL, Phyton, Django, HTML, CSS y Git. Estoy aprendiendo Java ahora mismo.
-Mis experiencias pasadas, como director de una Big Band de jazz y como docente me ayudaron a desarrollar buenas habilidades sociales y a desempeñarme muy bien trabajando en equipo.
-
 Desarrollador Web Full Stack | Apasionado por la Tecnología y el Trabajo en Equipo<br>
 <br>
 Soy un desarrollador web con experiencia en front-end y back-end, y estoy buscando un equipo dinámico y colaborativo donde pueda crecer profesionalmente mientras contribuyo con soluciones innovadoras y eficientes. Mi objetivo es seguir aprendiendo y enfrentar nuevos desafíos que me permitan perfeccionar mis habilidades en programación y arquitectura de software.<br>
@@ -15,12 +10,10 @@ Mis experiencias como director de una Big Band de jazz y como docente me brindar
 Me interesa ser parte de proyectos que impacten positivamente la vida cotidiana y estoy comprometido a aportar soluciones que resuelvan problemas reales. Si estás buscando un desarrollador entusiasta y orientado a resultados, me encantaría conectarme contigo.<br>
 <br>
 ¡Contáctame para Conversar!<br>
-Puedes escribirme a illescas.s.m@gmail.com o visitar mi perfil en GitHub: illescas-sergio. Estoy abierto a oportunidades en el desarrollo back-end, pero también disfruto del trabajo en el front-end. Me encantaría escuchar más sobre tu equipo y cómo podría ser parte de él.
+Puedes escribirme a illescas.s.m@gmail.com o visitar mi perfil en linkedIn https://www.linkedin.com/in/sergio-illescas-fullstack/<br>
+Estoy abierto a oportunidades en el desarrollo back-end, pero también disfruto del trabajo en el front-end. Me encantaría escuchar más sobre tu equipo y cómo podría ser parte de él.<br>
 
-Contacto:
 
-illescas.s.m@gmail.com <br>
-https://www.linkedin.com/in/sergio-illescas-fullstack/
 
 
 
